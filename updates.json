@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 910757534,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 464835599,
+          "is_bot": false,
+          "first_name": "Миша",
+          "last_name": "Пищулин",
+          "language_code": "ru-RU"
+        },
+        "chat": {
+          "id": 464835599,
+          "first_name": "Миша",
+          "last_name": "Пищулин",
+          "type": "private"
+        },
+        "date": 1530774778,
+        "text": "Привет"
+      }
+    }
+  ]
+}
